@@ -14,3 +14,4 @@ Sinta-se à vontade para acompanhar minha jornada de aprendizado e explorar os p
 <br>
 <br>
 <a href="https://instagram.com/principedev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+<a href="https://instagram.com/principedev" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-%121212?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
